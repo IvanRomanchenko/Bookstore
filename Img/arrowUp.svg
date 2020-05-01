@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: SketchAPI 5.1.316 <https://api.sketch.io/> -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketchjs="https://sketch.io/dtd/" style="" sketchjs:metadata="eyJ0aXRsZSI6IkRyYXdpbmciLCJkZXNjcmlwdGlvbiI6Ik1hZGUgd2l0aCBTa2V0Y2hwYWQgLSBodHRwczovL3NrZXRjaC5pby9za2V0Y2hwYWQiLCJtZXRhZGF0YSI6e30sImNsaXBQYXRoIjp7ImVuYWJsZWQiOnRydWUsInN0eWxlIjp7InN0cm9rZVN0eWxlIjoiYmxhY2siLCJsaW5lV2lkdGgiOjF9fSwiZXhwb3J0RFBJIjo3MiwiZXhwb3J0Rm9ybWF0IjoicG5nIiwiZXhwb3J0UXVhbGl0eSI6MC45NSwidW5pdHMiOiJweCIsIndpZHRoIjoxNCwiaGVpZ2h0IjoxMCwicGFnZXMiOnsibGVuZ3RoIjoxLCJkYXRhIjpbeyJ3aWR0aCI6MTQsImhlaWdodCI6MTB9XX19" width="14" height="10" viewBox="0 0 14 10" sketchjs:version="5.1.316">
+<defs>
+	<pattern id="dna_2407227288" src="/sketchpad-v5.1/media/lined" patternUnits="userSpaceOnUse" width="1024" height="1024">
+	</pattern>
+</defs>
+<path sketchjs:tool="rectangle" style="fill: url(#dna_2407227288); mix-blend-mode: source-over; fill-opacity: 1; fill-rule: nonzero; vector-effect: non-scaling-stroke;" d="M0 0 L14 0 14 10 0 10 z"/>
+<polyline sketchjs:tool="polyline" style="fill: none; stroke: #000000; mix-blend-mode: source-over; stroke-alignment: center; stroke-dasharray: none; stroke-dashoffset: 0; stroke-linecap: round; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-opacity: 1; stroke-width: 1.5;" points="0,6 6,0 12,6" transform="matrix(1,0,0,1,1,1)"/>
+</svg>
